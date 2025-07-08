@@ -25,7 +25,7 @@ This project explores Kenya's voting data with a focus on **voter turnout**, **c
 5. How did **each candidate perform per county**?  
 6. In which **region was Wamunyoro most popular**?
 
-### 🗺️ Geographic Visualizations
+### Geographic Visualizations
 
 7. Visualize a **map of Kenya** highlighting **voter turnout per county**  
 8. Create a **heatmap** of **votes cast vs. registered voters**
