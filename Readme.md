@@ -48,7 +48,8 @@ The final Power BI dashboard offers interactive visuals and maps that help **pol
 
 ---
 
-## Dashboard
+## Dashboard Preview
 
-"C:\Users\Moved Files\Desktop\Git Projects\Kenyas_Voting_Analysis\Photo\Screenshot 2025-07-08 114111.png"
+![Screenshot 2025-07-08 114111](https://github.com/user-attachments/assets/06869c18-6ee9-4843-a1b4-0624e07f943d)
+
 
